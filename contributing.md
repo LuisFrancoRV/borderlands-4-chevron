@@ -200,4 +200,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Borderlands 4 · Updated 2026-11-21 · Shared under the MIT License*
+*Borderlands 4 · Updated 2026-11-22 · Shared under the MIT License*
